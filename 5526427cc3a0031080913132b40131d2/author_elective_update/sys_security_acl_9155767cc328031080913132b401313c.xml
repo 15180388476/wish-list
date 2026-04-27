@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description/>
+        <local_or_existing>Existing</local_or_existing>
+        <name>x_1851226_wish_l_0_wish_list</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-27 06:51:23</sys_created_on>
+        <sys_id>9155767cc328031080913132b401313c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1851226_wish_l_0_wish_list</sys_name>
+        <sys_package display_value="Wish List" source="x_1851226_wish_l_0">5526427cc3a0031080913132b40131d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">5526427cc3a0031080913132b40131d2</sys_scope>
+        <sys_update_name>sys_security_acl_9155767cc328031080913132b401313c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-27 06:51:23</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wish List">5526427cc3a0031080913132b40131d2</application>
+        <file_path/>
+        <instance_id>716e1154dbf9f110ae4c9027c59619f4</instance_id>
+        <instance_name>dev182194</instance_name>
+        <name>sys_security_acl_9155767cc328031080913132b401313c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_1851226_wish_l_0_wish_list</name><operation display_value="read">read</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-27 06:51:23</sys_created_on><sys_id>9155767cc328031080913132b401313c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1851226_wish_l_0_wish_list</sys_name><sys_package display_value="Wish List" source="x_1851226_wish_l_0">5526427cc3a0031080913132b40131d2</sys_package><sys_policy/><sys_scope display_value="Wish List">5526427cc3a0031080913132b40131d2</sys_scope><sys_update_name>sys_security_acl_9155767cc328031080913132b401313c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-27 06:51:23</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>1217531594</payload_hash>
+        <record_name>x_1851226_wish_l_0_wish_list</record_name>
+        <reverted_from/>
+        <source>d126427cc3a0031080913132b40131db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-27 06:51:23</sys_created_on>
+        <sys_id>5d55767cc328031080913132b4013145</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19dcdb4fcc10000002</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-27 06:51:23</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>1d55767c82280310d27fbabaf22c7744</update_guid>
+        <update_guid_history>1d55767c82280310d27fbabaf22c7744:1217531594</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-27 08:48:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>734e91db356e4d70bd26d6bb0b738110</sys_id>
+        <sys_metadata>9155767cc328031080913132b401313c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1851226_wish_l_0_wish_list</sys_name>
+        <sys_package display_value="Wish List" source="x_1851226_wish_l_0">5526427cc3a0031080913132b40131d2</sys_package>
+        <sys_parent display_value="">3345f27cc328031080913132b4013117</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">5526427cc3a0031080913132b40131d2</sys_scope>
+        <sys_scope_delete display_value="">4c4c7b9bd8e246249b7543e9696ac810</sys_scope_delete>
+        <sys_update_name>sys_security_acl_9155767cc328031080913132b401313c</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_9155767cc328031080913132b401313c">5d55767cc328031080913132b4013145</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-27 08:48:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

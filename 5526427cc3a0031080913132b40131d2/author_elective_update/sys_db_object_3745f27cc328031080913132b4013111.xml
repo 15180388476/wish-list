@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <filter_extension/>
+        <is_df_table>false</is_df_table>
+        <is_extendable>false</is_extendable>
+        <label>Wish List</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1851226_wish_l_0_wish_list</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-27 06:51:17</sys_created_on>
+        <sys_id>3745f27cc328031080913132b4013111</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wish L 0 Wish List</sys_name>
+        <sys_package display_value="Wish List" source="x_1851226_wish_l_0">5526427cc3a0031080913132b40131d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">5526427cc3a0031080913132b40131d2</sys_scope>
+        <sys_update_name>sys_db_object_3745f27cc328031080913132b4013111</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-27 06:51:17</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wish List">5526427cc3a0031080913132b40131d2</application>
+        <file_path/>
+        <instance_id>716e1154dbf9f110ae4c9027c59619f4</instance_id>
+        <instance_name>dev182194</instance_name>
+        <name>sys_db_object_3745f27cc328031080913132b4013111</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><filter_extension/><is_df_table>false</is_df_table><is_extendable>false</is_extendable><label>Wish List</label><live_feed_enabled>false</live_feed_enabled><name>x_1851226_wish_l_0_wish_list</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-27 06:51:17</sys_created_on><sys_id>3745f27cc328031080913132b4013111</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Wish L 0 Wish List</sys_name><sys_package display_value="Wish List" source="x_1851226_wish_l_0">5526427cc3a0031080913132b40131d2</sys_package><sys_policy/><sys_scope display_value="Wish List">5526427cc3a0031080913132b40131d2</sys_scope><sys_update_name>sys_db_object_3745f27cc328031080913132b4013111</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-27 06:51:17</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>137556960</payload_hash>
+        <record_name>Wish List</record_name>
+        <reverted_from/>
+        <source>d126427cc3a0031080913132b40131db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-27 06:51:18</sys_created_on>
+        <sys_id>b745f27cc328031080913132b4013160</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19dcdb4e79b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-27 06:51:18</sys_updated_on>
+        <type>Table</type>
+        <update_guid>f745f27c0c2803108872199c9d8c8e5f</update_guid>
+        <update_guid_history>f745f27c0c2803108872199c9d8c8e5f:137556960</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-27 08:48:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>8a8b94b48d934797bf2f7b955a81ae61</sys_id>
+        <sys_metadata>3745f27cc328031080913132b4013111</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wish L 0 Wish List</sys_name>
+        <sys_package display_value="Wish List" source="x_1851226_wish_l_0">5526427cc3a0031080913132b40131d2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">5526427cc3a0031080913132b40131d2</sys_scope>
+        <sys_scope_delete display_value="">4c4c7b9bd8e246249b7543e9696ac810</sys_scope_delete>
+        <sys_update_name>sys_db_object_3745f27cc328031080913132b4013111</sys_update_name>
+        <sys_update_version display_value="sys_db_object_3745f27cc328031080913132b4013111">b745f27cc328031080913132b4013160</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-27 08:48:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
